@@ -31,5 +31,5 @@ int main()
 
         binarySearch(N, arr, target);
 	
-	return 0;
+				return 0;
 }
