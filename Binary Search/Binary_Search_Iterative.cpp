@@ -23,13 +23,13 @@ void binarySearch(int N, int arr[], int &target)
         cout << "Element not found.";
 }
 int main()
-{
+{        
         int N = 8;
         int arr[] = {1, 4, 6, 20, 40, 50, 322, 4567};
 
         int target = 4567;
-
+                
         binarySearch(N, arr, target);
 	
-				return 0;
+	return 0;
 }
